@@ -39,6 +39,7 @@ a href="https://twitter.com/eqeyildirim" target="blank"><img src="https://img.sh
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eqeyildirim&show_icons=true&locale=tr&layout=compact" alt="eqeyildirim" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eqeyildirim&show_icons=true&locale=tr" alt="eqeyildirim" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eqeyildirim&show_icons=true&locale=tr" alt="eqeyildirim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eqeyildirim&" alt="eqeyildirim" /></p>
+
