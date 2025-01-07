@@ -88,9 +88,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/eqeyildirim/eqeyildirim/output/snake.svg" alt="Snake animation" />
-
-###
