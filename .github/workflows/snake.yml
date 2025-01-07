@@ -6,7 +6,11 @@ on:
   workflow_dispatch:
   push:
     branches:
+<<<<<<< HEAD
       - master
+=======
+    - master
+>>>>>>> 8ff9b904798e12dc4b37d172cbec60d21424eb54
 
 jobs:
   generate:
